@@ -1,21 +1,21 @@
 body {
-    background-color: #eed1dc;
+    background-color: #facfe0;
 }
 
 .envelope-wrapper {
-    height: 400px;
+    height: 380px;
 }
 
 #envelope {
     position: relative;
-    height: 200px;
+    height: 180px;
     width: 280px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     margin-left: auto;
     margin-right: auto;
     top: 50%;
-    background-color: #ff63ac;
+    background-color: #ff60bd;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .flap {
-    border-top: 98px solid #FF6863;
+    border-top: 98px solid #ff4f92;
     border-left: 140px solid transparent;
     border-right: 140px solid transparent;
     border-bottom: 82px solid transparent;
@@ -49,7 +49,7 @@ body {
 
 .letter {
     position: relative;
-    background-color: rgb(255, 255, 232);
+    background-color: rgb(255, 249, 218);
     width: 90%;
     height: 95%;
     top: 5%;
@@ -79,13 +79,13 @@ body {
 }
 
 .line1 {
-    top: 10%;
+    top: 15%;
 }
 .line2 {
-    top: 25%;
+    top: 30%;
 }
 .line3 {
-    top: 45%;
+    top: 50%;
     text-align: center;
 }
 .line4 {
@@ -230,7 +230,7 @@ body {
 
 .valentine {
     text-align: center;
-    font-family: 'Times New Roman', Times, serif, Helvetica, Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif, Georgia, 'Times New Roman', Times, serif;
     color:rgb(20, 20, 20);
     font-size: 70px;
     margin: 150px;
